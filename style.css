@@ -1,0 +1,38 @@
+:root{
+  view-transition-name: root;
+}
+html{
+  display: block;
+  background-color: black;
+}
+
+.gray-btn{
+  background-color: gray;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  margin: 4px;
+  font-size: 15px;
+}
+
+.orange-btn{
+  background-color: 
+  orange;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  font-size: 20px;
+  
+}
+.clear-btn{
+  background-color: 
+  orange;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  font-size: 15px;
+
+}
